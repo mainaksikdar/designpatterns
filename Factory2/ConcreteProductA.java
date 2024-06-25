@@ -1,4 +1,4 @@
-package Factory;
+package Factory2;
 
 public class ConcreteProductA extends Product {
     @Override

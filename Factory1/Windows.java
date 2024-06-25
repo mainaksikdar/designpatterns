@@ -1,4 +1,4 @@
-package Factory;
+package Factory1;
 
 public class Windows implements OS {
 

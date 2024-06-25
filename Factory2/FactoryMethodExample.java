@@ -1,4 +1,4 @@
-package Factory;
+package Factory2;
 
 public class FactoryMethodExample {
     public static void main(String[] args) {

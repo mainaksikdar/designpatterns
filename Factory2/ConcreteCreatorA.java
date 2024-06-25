@@ -1,4 +1,4 @@
-package Factory;
+package Factory2;
 
 public class ConcreteCreatorA extends Creator {
 
